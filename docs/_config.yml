@@ -6,7 +6,7 @@ execute:
   execute_notebooks: "off"
 
 repository:
-  url: https://github.com/Franzili/spatial-omics.github.io
+  url: https://github.com/Franzili/spatial-omics-course
   branch: main
 
 html:
