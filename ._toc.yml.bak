@@ -3,3 +3,5 @@ root: index
 chapters:
   - file: notebooks/01-data_formats_spatialdata
   - file: notebooks/02-qc_normalization_sequence_based
+  - file: notebooks/03-spatial_stats
+  - file: notebooks/04-cell-cell-communication
